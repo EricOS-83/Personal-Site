@@ -1,3 +1,3 @@
 The goal of this project is to create a personal website that showcases my skills, experiences, and interests. 
-The website should be visually appealing and easy to navigate, while also providing relevant information about you and your background. 
+The website should be visually appealing and easy to navigate, while also providing relevant information about me and my background. 
 The site should be built entirely with HTML and CSS, with no JavaScript code included.
